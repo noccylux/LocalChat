@@ -1,2 +1,2 @@
-# File: LocalChat/utils/__init__.py
+# File: localchat/utils/__init__.py
 

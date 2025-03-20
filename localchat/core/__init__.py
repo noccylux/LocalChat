@@ -1,3 +1,3 @@
-# File: LocalChat/localchat/core/__init__.py
+# File: localchat/core/__init__.py
 
-
+from localchat.core.pipeline import StreamingPipeline
